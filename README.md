@@ -1,2 +1,2 @@
-# Crack-The-Safe
+# word-guess
 Created with CodeSandbox
